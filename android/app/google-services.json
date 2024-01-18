@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "301060984115",
+    "project_id": "sapoapp-886f3",
+    "storage_bucket": "sapoapp-886f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301060984115:android:63205a09e7a482aa2b0246",
+        "android_client_info": {
+          "package_name": "com.example.sapoapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMi7Vzacq3epiknJQ4ZQ6H-EBwyRJ8EfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
